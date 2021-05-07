@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/topStoriesMenuItem"
+        android:title="Najpopularniejsze" />
+    <item
+        android:id="@+id/countryMenuItem"
+        android:title="Kraj" />
+    <item
+        android:id="@+id/worldwideMenuItem"
+        android:title="Swiat" />
+    <item
+        android:id="@+id/businessMenuItem"
+        android:title="Biznes" />
+    <item
+        android:id="@+id/scitechMenuItem"
+        android:title="Nauka i technika" />
+    <item
+        android:id="@+id/entertainmentMenuItem"
+        android:title="Rozrywka" />
+    <item
+        android:id="@+id/sportsMenuItem"
+        android:title="Sport" />
+</menu>
